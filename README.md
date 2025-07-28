@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Mohammad Karim
 
-<!--
-**mohammad-karim013/mohammad-karim013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Turning data into actionable insights with dashboards, numbers & curiosity!**
 
 Here are some ideas to get you started:
 
