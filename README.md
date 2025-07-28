@@ -12,8 +12,14 @@
 - Data storytelling & decision-driven insights  
 
 ---
+💡 **Passionate About:**
 
+- Making sense of messy data  
+- Delivering visual stories through analytics  
+- Solving real-world business problems  
+- Learning new tools and improving every day  
 
+---
 
 
 
