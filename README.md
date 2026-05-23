@@ -31,8 +31,8 @@ Drop a message at: **Karimcse07@gmail.com**
 
 🙋‍♂️ **Pronouns:** He/Him
 
-⚡ **Fun Fact:** 
-When not designing ETL pipelines, I enjoy learning new AWS services, watching tech content, and perfecting my chai-making skills ☕
+⚡ **Fun Fact:**
+When not designing ETL pipelines, I enjoy learning new AWS services, watching tech content
 
 ---
 
