@@ -1,36 +1,39 @@
-# 👋 Hello! I'm Mohammad Karim
+👋 Hello! I'm Mohammad Karim
 
-🎯 **Data Analyst | Turning data into actionable insights with dashboards, numbers & curiosity!**
+🚀 Aspiring Data Engineer | Building scalable data pipelines and modern data platforms
+
+---
+
+🌱 Currently Exploring:
+- AWS Cloud Services (S3, Glue, Redshift, EventBridge, SNS)
+- End-to-End ETL Pipelines & Data Quality Frameworks
+- Building Data Warehouses and Automated Data Processing Systems
+- SQL, Python & PySpark for data transformation
+- Data Pipeline Orchestration and Monitoring
 
 ---
 
-🌱 **Currently Exploring:**
-
-- Power BI & Tableau for interactive dashboards  
-- SQL & Python for data wrangling and analysis  
-- Excel automation & spreadsheet modeling  
-- Data storytelling & decision-driven insights  
-
----
-💡 **Passionate About:**
-
-- Making sense of messy data  
-- Delivering visual stories through analytics  
-- Solving real-world business problems  
-- Learning new tools and improving every day  
+💡 Passionate About:
+- Designing robust and automated data pipelines
+- Ensuring high data quality and reliability
+- Turning raw data into clean, actionable insights
+- Learning modern Data Engineering tools and best practices
+- Solving real-world data problems with cloud technologies
 
 ---
-📫 **Reach Out:**  
-Open to data projects, dashboard collaborations, or just nerding out about data!  
-Drop a message at: Karimcse07@gmail.com
+
+📫 Reach Out:
+Open to Data Engineering projects, internships, collaborations, or discussions on AWS, ETL, and Data Pipelines!
+
+Drop a message at: **Karimcse07@gmail.com**
+
+---
 
 🙋‍♂️ **Pronouns:** He/Him
 
-⚡ **Fun Fact:**  
-When not analyzing data, I’m binge-watching tech YouTubers or perfecting my chai-making skills ☕📊
+⚡ **Fun Fact:** 
+When not designing ETL pipelines, I enjoy learning new AWS services, watching tech content, and perfecting my chai-making skills ☕
 
 ---
 
-🚀 *Let’s transform data into decisions!*
-
-
+🔥 *Let's build reliable data pipelines that drive real business impact!*
