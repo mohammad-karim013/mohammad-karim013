@@ -22,7 +22,7 @@
 ---
 📫 **Reach Out:**  
 Open to data projects, dashboard collaborations, or just nerding out about data!  
-Drop a message at: karimaazmi286@gmail.com
+Drop a message at: Karimcse07@gmail.com
 
 🙋‍♂️ **Pronouns:** He/Him
 
