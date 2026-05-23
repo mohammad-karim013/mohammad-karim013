@@ -23,6 +23,7 @@
 ---
 
 📫 Reach Out:
+
 Open to Data Engineering projects, internships, collaborations, or discussions on AWS, ETL, and Data Pipelines!
 
 Drop a message at: **Karimcse07@gmail.com**
@@ -32,6 +33,7 @@ Drop a message at: **Karimcse07@gmail.com**
 🙋‍♂️ **Pronouns:** He/Him
 
 ⚡ **Fun Fact:**
+
 When not designing ETL pipelines, I enjoy learning new AWS services, watching tech content
 
 ---
